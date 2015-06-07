@@ -1,0 +1,21 @@
+07 thg 6 2015 08:48:55,608 INFO  ~ Starting F:\Code\IDEA\yabe
+07 thg 6 2015 08:48:56,474 WARN  ~ You're running Play! in DEV mode
+07 thg 6 2015 08:48:56,634 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+07 thg 6 2015 08:49:09,833 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0 for default
+07 thg 6 2015 08:49:11,918 ERROR ~ HHH000389: Unsuccessful: alter table Comment drop constraint FK_apirq8ka64iidc18f3k6x5tc5
+07 thg 6 2015 08:49:11,919 ERROR ~ Table "COMMENT" not found; SQL statement:
+alter table Comment drop constraint FK_apirq8ka64iidc18f3k6x5tc5 [42102-185]
+07 thg 6 2015 08:49:11,920 ERROR ~ HHH000389: Unsuccessful: alter table Post drop constraint FK_m7j5gwmpa7dklv5bnc41ertmi
+07 thg 6 2015 08:49:11,921 ERROR ~ Table "POST" not found; SQL statement:
+alter table Post drop constraint FK_m7j5gwmpa7dklv5bnc41ertmi [42102-185]
+07 thg 6 2015 08:49:11,921 ERROR ~ HHH000389: Unsuccessful: alter table Post_Tag drop constraint FK_t0ml4xx4nhnqjwrhxugwlvrpm
+07 thg 6 2015 08:49:11,921 ERROR ~ Table "POST_TAG" not found; SQL statement:
+alter table Post_Tag drop constraint FK_t0ml4xx4nhnqjwrhxugwlvrpm [42102-185]
+07 thg 6 2015 08:49:11,922 ERROR ~ HHH000389: Unsuccessful: alter table Post_Tag drop constraint FK_ex1oknil4le2tootduvjnllp6
+07 thg 6 2015 08:49:11,923 ERROR ~ Table "POST_TAG" not found; SQL statement:
+alter table Post_Tag drop constraint FK_ex1oknil4le2tootduvjnllp6 [42102-185]
+07 thg 6 2015 08:49:12,224 INFO  ~ Application 'YABE' is now started !
+07 thg 6 2015 08:49:25,417 WARN  ~ [DEPRECATION] Encountered positional parameter near line 1, column 70.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+07 thg 6 2015 08:53:48,765 WARN  ~ [DEPRECATION] Encountered positional parameter near line 1, column 70.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+07 thg 6 2015 08:58:16,722 WARN  ~ [DEPRECATION] Encountered positional parameter near line 1, column 70.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+07 thg 6 2015 08:59:18,427 WARN  ~ [DEPRECATION] Encountered positional parameter near line 1, column 70.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
